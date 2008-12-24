@@ -17,4 +17,4 @@ build ctags like described in `John Anderson's post <http://blog.sontek.net/2008
 
 Planned Features:
 -----------------
-# install script
+#. install script
